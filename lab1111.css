@@ -1,0 +1,43 @@
+#rectangle {
+    width: 110px;
+    height: 300px;
+    background:transparent;
+    border: 2px solid black;
+    position: relative;
+    left: 350px;
+    top: 65px;
+}
+
+#rectangle3{
+    width: 110px;
+    height: 300px;
+    background:transparent;
+    border: 2px solid #050105;
+    position: relative;
+    left: 830px;
+    bottom: 240px;
+
+}
+
+#rectangle5 {
+
+    width: 350px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid #050105;
+    position: relative;
+    left: 470px;
+    bottom: 355px;
+
+}
+
+#rectangle7{
+
+    width: 590px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid #050105;
+    position: relative;
+    left: 350px;
+    bottom: 350px;
+}
